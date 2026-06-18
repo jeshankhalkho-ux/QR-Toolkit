@@ -1,0 +1,6 @@
+{
+  "name": "QR Toolkit Pro",
+  "description": "Professional, high-speed, free QR code generator with interactive designs and multiple data types.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
